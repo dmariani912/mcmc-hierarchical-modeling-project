@@ -35,11 +35,6 @@ The hierarchical model provided posterior estimates for average wait times, reve
 *   **Uncertainty Trend:** Cities with the longest waits (e.g., LA, Miami, NYC) also exhibited the highest uncertainty, suggesting inconsistent scheduling and a greater need for operational review.
 *   **Shrinkage Effect:** The model effectively "shrunk" estimates for cities with small sample sizes toward the overall mean, demonstrating the primary benefit of hierarchical modeling.
 
-## 📁 Project Report
-
-The complete technical report, including all code, output, plots, and the full written analysis, is available here:
-[**Final Capstone Report (PDF)**](Stat223-Final-Capstone.pdf)
-
 ---
 
 **Note on Academic Integrity:** This project was completed as the capstone for **STAT 223: Bayesian Inference** at the University of Rochester. The original RMarkdown (`.Rmd`) source file is not distributed here to adhere to my university's academic integrity policies regarding the publication of course solutions. The provided PDF represents the complete final output and analysis.
